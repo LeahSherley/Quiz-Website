@@ -88,7 +88,7 @@ This project is a Q&A website designed for users to engage with general knowledg
     - Enabled GitHub Pages for the repository and set the source branch to `main`.
 
 11. **Accessing the Published Page:**
-    - Visited the GitHub Pages URL for your repository and verify that the HTML file is accessible online.
+    - Confirmed the file is accessible online.
 
 ### Task 5: Open Source Exploration
 
@@ -96,7 +96,7 @@ This project is a Q&A website designed for users to engage with general knowledg
     - used the same project for open source exploration.
 
 13. **Opening an Issue:**
-    - Opened a new issuefor style improvements.
+    - Opened a new issue for style improvements.
 
 ### Submission
 
